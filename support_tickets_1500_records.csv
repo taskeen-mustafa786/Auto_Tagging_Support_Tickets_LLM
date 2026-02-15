@@ -1,0 +1,1501 @@
+ticket_id,text,label
+1,Support team is not responding. I am frustrated.,Complaint
+2,Mobile app keeps logging me out. Kindly resolve ASAP.,Technical Support
+3,My account is locked. It has been 3 days already.,Account Access
+4,Package was damaged during delivery. It has been 3 days already.,Shipping Problem
+5,Shipment is delayed. It has been 3 days already.,Shipping Problem
+6,Please reset my password. It has been 3 days already.,Account Access
+7,The tracking number is not working. It has been 3 days already.,Shipping Problem
+8,My order has not arrived yet. Kindly resolve ASAP.,Shipping Problem
+9,This is unacceptable. This is urgent.,Complaint
+10,Website is not loading properly.,Technical Support
+11,The tracking number is not working. Kindly resolve ASAP.,Shipping Problem
+12,Mobile app keeps logging me out.,Technical Support
+13,My invoice shows an incorrect amount. Kindly resolve ASAP.,Billing Issue
+14,Do you offer warranty for this product? I am frustrated.,Product Inquiry
+15,Please add dark mode. It has been 3 days already.,Feature Request
+16,My order has not arrived yet. Please help quickly.,Shipping Problem
+17,My invoice shows an incorrect amount.,Billing Issue
+18,I had a terrible experience. It has been 3 days already.,Complaint
+19,The app crashes when I open it.,Technical Support
+20,Can you explain how this product works? Please help quickly.,Product Inquiry
+21,Two-factor authentication is not working. Kindly resolve ASAP.,Account Access
+22,I suggest adding a dashboard feature. It has been 3 days already.,Feature Request
+23,Add integration with Google Drive.,Feature Request
+24,Add integration with Google Drive. Please help quickly.,Feature Request
+25,Mobile app keeps logging me out. I am frustrated.,Technical Support
+26,Please add dark mode.,Feature Request
+27,I suggest adding a dashboard feature. I am frustrated.,Feature Request
+28,Do you offer warranty for this product? It has been 3 days already.,Product Inquiry
+29,Does this support Android devices?,Product Inquiry
+30,I am getting a server error. I am frustrated.,Technical Support
+31,Please add dark mode. This is urgent.,Feature Request
+32,Can you explain how this product works? Kindly resolve ASAP.,Product Inquiry
+33,Mobile app keeps logging me out. This is urgent.,Technical Support
+34,I am getting a server error. This is urgent.,Technical Support
+35,I was charged twice for my subscription. Kindly resolve ASAP.,Billing Issue
+36,Delivery address was changed without notice. It has been 3 days already.,Shipping Problem
+37,It would be great to have offline access. Kindly resolve ASAP.,Feature Request
+38,Login OTP is not arriving. This is urgent.,Account Access
+39,Delivery address was changed without notice. Please help quickly.,Shipping Problem
+40,Payment failed but money was deducted. This is urgent.,Billing Issue
+41,The app crashes when I open it. This is urgent.,Technical Support
+42,I am getting a server error. This is urgent.,Technical Support
+43,Please add dark mode. This is urgent.,Feature Request
+44,Payment failed but money was deducted. It has been 3 days already.,Billing Issue
+45,The system freezes after login. Kindly resolve ASAP.,Technical Support
+46,My account is locked. This is urgent.,Account Access
+47,Delivery address was changed without notice. This is urgent.,Shipping Problem
+48,I had a terrible experience.,Complaint
+49,Do you offer warranty for this product? I am frustrated.,Product Inquiry
+50,Two-factor authentication is not working. I am frustrated.,Account Access
+51,Login OTP is not arriving. Kindly resolve ASAP.,Account Access
+52,Support team is not responding. I am frustrated.,Complaint
+53,Two-factor authentication is not working. It has been 3 days already.,Account Access
+54,Please introduce push notifications. Kindly resolve ASAP.,Feature Request
+55,"The product did not meet expectations, refund me.",Refund Request
+56,This is unacceptable. Please help quickly.,Complaint
+57,I suggest adding a dashboard feature. It has been 3 days already.,Feature Request
+58,Two-factor authentication is not working.,Account Access
+59,Website is not loading properly. It has been 3 days already.,Technical Support
+60,I am getting a server error. This is urgent.,Technical Support
+61,My order has not arrived yet. This is urgent.,Shipping Problem
+62,Please introduce push notifications. It has been 3 days already.,Feature Request
+63,I returned the item but haven't received my refund. Kindly resolve ASAP.,Refund Request
+64,Account was suspended without reason. Please help quickly.,Account Access
+65,Why was I billed after cancellation? Please help quickly.,Billing Issue
+66,The app crashes when I open it. I am frustrated.,Technical Support
+67,Delivery address was changed without notice. This is urgent.,Shipping Problem
+68,Login OTP is not arriving. Kindly resolve ASAP.,Account Access
+69,Is this product compatible with Windows? Please help quickly.,Product Inquiry
+70,The system freezes after login. Please help quickly.,Technical Support
+71,I suggest adding a dashboard feature. This is urgent.,Feature Request
+72,Why was I billed after cancellation?,Billing Issue
+73,I suggest adding a dashboard feature. This is urgent.,Feature Request
+74,Please process my refund immediately. I am frustrated.,Refund Request
+75,Can you add multi-language support?,Feature Request
+76,The app crashes when I open it. Please help quickly.,Technical Support
+77,I had a terrible experience. Please help quickly.,Complaint
+78,Please process my refund immediately. This is urgent.,Refund Request
+79,I was charged twice for my subscription. This is urgent.,Billing Issue
+80,I see an unknown charge on my card. Please help quickly.,Billing Issue
+81,Can you explain how this product works? Please help quickly.,Product Inquiry
+82,Delivery address was changed without notice. This is urgent.,Shipping Problem
+83,I suggest adding a dashboard feature.,Feature Request
+84,I cannot log into my account. It has been 3 days already.,Account Access
+85,What are the specifications of this item? Please help quickly.,Product Inquiry
+86,Please process my refund immediately. Kindly resolve ASAP.,Refund Request
+87,Payment failed but money was deducted.,Billing Issue
+88,Why was I billed after cancellation? Kindly resolve ASAP.,Billing Issue
+89,The app crashes when I open it. This is urgent.,Technical Support
+90,I suggest adding a dashboard feature. It has been 3 days already.,Feature Request
+91,I received the wrong item. It has been 3 days already.,Shipping Problem
+92,Error code 500 appears frequently. I am frustrated.,Technical Support
+93,Please reset my password. I am frustrated.,Account Access
+94,I suggest adding a dashboard feature. It has been 3 days already.,Feature Request
+95,Shipment is delayed. Please help quickly.,Shipping Problem
+96,I returned the item but haven't received my refund. This is urgent.,Refund Request
+97,I was charged twice for my subscription.,Billing Issue
+98,Error code 500 appears frequently. It has been 3 days already.,Technical Support
+99,This is unacceptable.,Complaint
+100,I received the wrong item.,Shipping Problem
+101,Delivery address was changed without notice. This is urgent.,Shipping Problem
+102,Please introduce push notifications.,Feature Request
+103,The tracking number is not working. I am frustrated.,Shipping Problem
+104,Do you offer warranty for this product? This is urgent.,Product Inquiry
+105,Does this support Android devices? I am frustrated.,Product Inquiry
+106,I returned the item but haven't received my refund. I am frustrated.,Refund Request
+107,I cannot log into my account. This is urgent.,Account Access
+108,Please process my refund immediately. This is urgent.,Refund Request
+109,The system freezes after login. Kindly resolve ASAP.,Technical Support
+110,What colors are available? It has been 3 days already.,Product Inquiry
+111,Is this product compatible with Windows?,Product Inquiry
+112,The tracking number is not working. Kindly resolve ASAP.,Shipping Problem
+113,The system freezes after login. This is urgent.,Technical Support
+114,Shipment is delayed. I am frustrated.,Shipping Problem
+115,Add integration with Google Drive. It has been 3 days already.,Feature Request
+116,I was charged twice for my subscription.,Billing Issue
+117,Shipment is delayed. It has been 3 days already.,Shipping Problem
+118,I was charged twice for my subscription. This is urgent.,Billing Issue
+119,Cancel my order and issue refund. Please help quickly.,Refund Request
+120,I returned the item but haven't received my refund. This is urgent.,Refund Request
+121,I want a refund for my last purchase. Please help quickly.,Refund Request
+122,I see an unknown charge on my card. I am frustrated.,Billing Issue
+123,This is unacceptable.,Complaint
+124,I received the wrong item. Please help quickly.,Shipping Problem
+125,I am very disappointed with your service. This is urgent.,Complaint
+126,My order has not arrived yet.,Shipping Problem
+127,Account was suspended without reason. I am frustrated.,Account Access
+128,Delivery address was changed without notice. Please help quickly.,Shipping Problem
+129,Very poor quality product. It has been 3 days already.,Complaint
+130,Can you explain how this product works? It has been 3 days already.,Product Inquiry
+131,This is unacceptable.,Complaint
+132,I had a terrible experience. This is urgent.,Complaint
+133,I returned the item but haven't received my refund. Please help quickly.,Refund Request
+134,Does this support Android devices? It has been 3 days already.,Product Inquiry
+135,Is this product compatible with Windows? Kindly resolve ASAP.,Product Inquiry
+136,Does this support Android devices? Kindly resolve ASAP.,Product Inquiry
+137,Please process my refund immediately. This is urgent.,Refund Request
+138,I returned the item but haven't received my refund. It has been 3 days already.,Refund Request
+139,Subscription renewal amount is wrong.,Billing Issue
+140,I cannot log into my account. It has been 3 days already.,Account Access
+141,Subscription renewal amount is wrong. Kindly resolve ASAP.,Billing Issue
+142,Payment failed but money was deducted. I am frustrated.,Billing Issue
+143,Subscription renewal amount is wrong.,Billing Issue
+144,The tracking number is not working. This is urgent.,Shipping Problem
+145,I had a terrible experience. It has been 3 days already.,Complaint
+146,Please reset my password. Please help quickly.,Account Access
+147,"The product did not meet expectations, refund me. I am frustrated.",Refund Request
+148,Can you add multi-language support? It has been 3 days already.,Feature Request
+149,What colors are available? This is urgent.,Product Inquiry
+150,"The product did not meet expectations, refund me. It has been 3 days already.",Refund Request
+151,Does this support Android devices? This is urgent.,Product Inquiry
+152,Two-factor authentication is not working. This is urgent.,Account Access
+153,I suggest adding a dashboard feature. Kindly resolve ASAP.,Feature Request
+154,Is this product compatible with Windows? This is urgent.,Product Inquiry
+155,"The product did not meet expectations, refund me.",Refund Request
+156,Package was damaged during delivery. This is urgent.,Shipping Problem
+157,Two-factor authentication is not working. I am frustrated.,Account Access
+158,What colors are available? It has been 3 days already.,Product Inquiry
+159,Shipment is delayed. Kindly resolve ASAP.,Shipping Problem
+160,The app crashes when I open it. This is urgent.,Technical Support
+161,Website is not loading properly. It has been 3 days already.,Technical Support
+162,Can you add multi-language support?,Feature Request
+163,Cancel my order and issue refund.,Refund Request
+164,What are the specifications of this item? Please help quickly.,Product Inquiry
+165,Add integration with Google Drive. It has been 3 days already.,Feature Request
+166,My order has not arrived yet.,Shipping Problem
+167,Can you explain how this product works? Please help quickly.,Product Inquiry
+168,I suggest adding a dashboard feature. Kindly resolve ASAP.,Feature Request
+169,I received the wrong item. Please help quickly.,Shipping Problem
+170,Does this support Android devices? I am frustrated.,Product Inquiry
+171,Shipment is delayed. This is urgent.,Shipping Problem
+172,The app crashes when I open it. It has been 3 days already.,Technical Support
+173,What colors are available? I am frustrated.,Product Inquiry
+174,"The product did not meet expectations, refund me.",Refund Request
+175,Please add dark mode. I am frustrated.,Feature Request
+176,The tracking number is not working. It has been 3 days already.,Shipping Problem
+177,I returned the item but haven't received my refund.,Refund Request
+178,Is this product compatible with Windows?,Product Inquiry
+179,Payment failed but money was deducted. Kindly resolve ASAP.,Billing Issue
+180,Why was I billed after cancellation? This is urgent.,Billing Issue
+181,The system freezes after login. Kindly resolve ASAP.,Technical Support
+182,I received the wrong item. It has been 3 days already.,Shipping Problem
+183,Mobile app keeps logging me out.,Technical Support
+184,Account was suspended without reason. Kindly resolve ASAP.,Account Access
+185,Refund status is still pending. It has been 3 days already.,Refund Request
+186,Package was damaged during delivery. Kindly resolve ASAP.,Shipping Problem
+187,My account is locked. It has been 3 days already.,Account Access
+188,Delivery address was changed without notice. I am frustrated.,Shipping Problem
+189,Please introduce push notifications. It has been 3 days already.,Feature Request
+190,Can you explain how this product works? Kindly resolve ASAP.,Product Inquiry
+191,Support team is not responding. This is urgent.,Complaint
+192,Please add dark mode. Kindly resolve ASAP.,Feature Request
+193,I am getting a server error.,Technical Support
+194,Delivery address was changed without notice.,Shipping Problem
+195,Can you add multi-language support? It has been 3 days already.,Feature Request
+196,I was charged twice for my subscription. It has been 3 days already.,Billing Issue
+197,"The product did not meet expectations, refund me. I am frustrated.",Refund Request
+198,What are the specifications of this item? This is urgent.,Product Inquiry
+199,I suggest adding a dashboard feature.,Feature Request
+200,My account is locked. It has been 3 days already.,Account Access
+201,What colors are available? It has been 3 days already.,Product Inquiry
+202,Account was suspended without reason. This is urgent.,Account Access
+203,I am getting a server error.,Technical Support
+204,Can you explain how this product works? Kindly resolve ASAP.,Product Inquiry
+205,Please add dark mode. This is urgent.,Feature Request
+206,Support team is not responding.,Complaint
+207,The tracking number is not working. Please help quickly.,Shipping Problem
+208,Very poor quality product. It has been 3 days already.,Complaint
+209,Please introduce push notifications.,Feature Request
+210,Refund status is still pending.,Refund Request
+211,I was charged twice for my subscription. This is urgent.,Billing Issue
+212,Shipment is delayed. It has been 3 days already.,Shipping Problem
+213,Payment failed but money was deducted.,Billing Issue
+214,"The product did not meet expectations, refund me. Kindly resolve ASAP.",Refund Request
+215,"The product did not meet expectations, refund me. I am frustrated.",Refund Request
+216,"The product did not meet expectations, refund me.",Refund Request
+217,Support team is not responding.,Complaint
+218,My account is locked. I am frustrated.,Account Access
+219,I am getting a server error. Please help quickly.,Technical Support
+220,My account is locked. It has been 3 days already.,Account Access
+221,Is this product compatible with Windows?,Product Inquiry
+222,I suggest adding a dashboard feature. This is urgent.,Feature Request
+223,Refund status is still pending. This is urgent.,Refund Request
+224,This is unacceptable. Please help quickly.,Complaint
+225,"The product did not meet expectations, refund me. I am frustrated.",Refund Request
+226,I received the wrong item. I am frustrated.,Shipping Problem
+227,Please introduce push notifications. I am frustrated.,Feature Request
+228,Cancel my order and issue refund. Please help quickly.,Refund Request
+229,The tracking number is not working. It has been 3 days already.,Shipping Problem
+230,Error code 500 appears frequently. It has been 3 days already.,Technical Support
+231,My order has not arrived yet. It has been 3 days already.,Shipping Problem
+232,Website is not loading properly. Kindly resolve ASAP.,Technical Support
+233,The system freezes after login. Kindly resolve ASAP.,Technical Support
+234,Account was suspended without reason. Kindly resolve ASAP.,Account Access
+235,Is this product compatible with Windows? Kindly resolve ASAP.,Product Inquiry
+236,Two-factor authentication is not working. I am frustrated.,Account Access
+237,I suggest adding a dashboard feature.,Feature Request
+238,I suggest adding a dashboard feature.,Feature Request
+239,I cannot log into my account. This is urgent.,Account Access
+240,Mobile app keeps logging me out. It has been 3 days already.,Technical Support
+241,Is this product compatible with Windows? Kindly resolve ASAP.,Product Inquiry
+242,Can you add multi-language support? This is urgent.,Feature Request
+243,Please introduce push notifications. Please help quickly.,Feature Request
+244,Please introduce push notifications. Please help quickly.,Feature Request
+245,Why was I billed after cancellation? Kindly resolve ASAP.,Billing Issue
+246,My account is locked. I am frustrated.,Account Access
+247,Please add dark mode. I am frustrated.,Feature Request
+248,Customer service was very rude. It has been 3 days already.,Complaint
+249,The app crashes when I open it. Kindly resolve ASAP.,Technical Support
+250,Shipment is delayed. Kindly resolve ASAP.,Shipping Problem
+251,It would be great to have offline access.,Feature Request
+252,This is unacceptable.,Complaint
+253,The tracking number is not working.,Shipping Problem
+254,Is this product compatible with Windows? Kindly resolve ASAP.,Product Inquiry
+255,I returned the item but haven't received my refund.,Refund Request
+256,This is unacceptable. This is urgent.,Complaint
+257,It would be great to have offline access.,Feature Request
+258,Delivery address was changed without notice.,Shipping Problem
+259,"The product did not meet expectations, refund me. This is urgent.",Refund Request
+260,I had a terrible experience. Please help quickly.,Complaint
+261,The system freezes after login.,Technical Support
+262,What are the specifications of this item? It has been 3 days already.,Product Inquiry
+263,I cannot log into my account.,Account Access
+264,Please process my refund immediately.,Refund Request
+265,Account was suspended without reason. This is urgent.,Account Access
+266,Mobile app keeps logging me out.,Technical Support
+267,Support team is not responding. I am frustrated.,Complaint
+268,Mobile app keeps logging me out. Kindly resolve ASAP.,Technical Support
+269,Login OTP is not arriving.,Account Access
+270,Shipment is delayed. Please help quickly.,Shipping Problem
+271,I want a refund for my last purchase. It has been 3 days already.,Refund Request
+272,Mobile app keeps logging me out. It has been 3 days already.,Technical Support
+273,My account is locked.,Account Access
+274,Mobile app keeps logging me out. Please help quickly.,Technical Support
+275,Is this product compatible with Windows? This is urgent.,Product Inquiry
+276,I see an unknown charge on my card. This is urgent.,Billing Issue
+277,I suggest adding a dashboard feature. Please help quickly.,Feature Request
+278,I am getting a server error.,Technical Support
+279,I had a terrible experience. This is urgent.,Complaint
+280,Please process my refund immediately.,Refund Request
+281,It would be great to have offline access. It has been 3 days already.,Feature Request
+282,My account is locked. Kindly resolve ASAP.,Account Access
+283,Add integration with Google Drive. Kindly resolve ASAP.,Feature Request
+284,Shipment is delayed. I am frustrated.,Shipping Problem
+285,I suggest adding a dashboard feature.,Feature Request
+286,Package was damaged during delivery. I am frustrated.,Shipping Problem
+287,I see an unknown charge on my card.,Billing Issue
+288,Website is not loading properly.,Technical Support
+289,Do you offer warranty for this product? Kindly resolve ASAP.,Product Inquiry
+290,It would be great to have offline access. I am frustrated.,Feature Request
+291,I had a terrible experience. This is urgent.,Complaint
+292,I was charged twice for my subscription. Kindly resolve ASAP.,Billing Issue
+293,Can you add multi-language support? I am frustrated.,Feature Request
+294,I received the wrong item. I am frustrated.,Shipping Problem
+295,Is this product compatible with Windows? Please help quickly.,Product Inquiry
+296,I want a refund for my last purchase.,Refund Request
+297,Payment failed but money was deducted. It has been 3 days already.,Billing Issue
+298,What colors are available?,Product Inquiry
+299,I am getting a server error. I am frustrated.,Technical Support
+300,Mobile app keeps logging me out. It has been 3 days already.,Technical Support
+301,Account was suspended without reason. It has been 3 days already.,Account Access
+302,My order has not arrived yet. Kindly resolve ASAP.,Shipping Problem
+303,What colors are available? This is urgent.,Product Inquiry
+304,Very poor quality product. It has been 3 days already.,Complaint
+305,Why was I billed after cancellation?,Billing Issue
+306,The app crashes when I open it. Please help quickly.,Technical Support
+307,Mobile app keeps logging me out.,Technical Support
+308,The tracking number is not working. This is urgent.,Shipping Problem
+309,What colors are available? Kindly resolve ASAP.,Product Inquiry
+310,Shipment is delayed. I am frustrated.,Shipping Problem
+311,Please reset my password.,Account Access
+312,Please add dark mode.,Feature Request
+313,Please add dark mode. Please help quickly.,Feature Request
+314,I was charged twice for my subscription. I am frustrated.,Billing Issue
+315,I cannot log into my account. I am frustrated.,Account Access
+316,It would be great to have offline access. Kindly resolve ASAP.,Feature Request
+317,Very poor quality product. It has been 3 days already.,Complaint
+318,I suggest adding a dashboard feature. Please help quickly.,Feature Request
+319,Shipment is delayed. Kindly resolve ASAP.,Shipping Problem
+320,Why was I billed after cancellation?,Billing Issue
+321,Website is not loading properly. I am frustrated.,Technical Support
+322,I am very disappointed with your service. This is urgent.,Complaint
+323,Two-factor authentication is not working. It has been 3 days already.,Account Access
+324,Refund status is still pending.,Refund Request
+325,Subscription renewal amount is wrong. Kindly resolve ASAP.,Billing Issue
+326,Please reset my password.,Account Access
+327,I am getting a server error. Kindly resolve ASAP.,Technical Support
+328,This is unacceptable. This is urgent.,Complaint
+329,Mobile app keeps logging me out. Please help quickly.,Technical Support
+330,Add integration with Google Drive. It has been 3 days already.,Feature Request
+331,Can you add multi-language support? Kindly resolve ASAP.,Feature Request
+332,I returned the item but haven't received my refund. This is urgent.,Refund Request
+333,Please add dark mode. It has been 3 days already.,Feature Request
+334,I am very disappointed with your service. Please help quickly.,Complaint
+335,Two-factor authentication is not working. Please help quickly.,Account Access
+336,"The product did not meet expectations, refund me. This is urgent.",Refund Request
+337,What are the specifications of this item?,Product Inquiry
+338,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+339,Mobile app keeps logging me out. It has been 3 days already.,Technical Support
+340,Cancel my order and issue refund. This is urgent.,Refund Request
+341,Two-factor authentication is not working. Kindly resolve ASAP.,Account Access
+342,"The product did not meet expectations, refund me. It has been 3 days already.",Refund Request
+343,Website is not loading properly. Kindly resolve ASAP.,Technical Support
+344,My invoice shows an incorrect amount. This is urgent.,Billing Issue
+345,Customer service was very rude. It has been 3 days already.,Complaint
+346,Customer service was very rude. Kindly resolve ASAP.,Complaint
+347,Account was suspended without reason. This is urgent.,Account Access
+348,The app crashes when I open it. I am frustrated.,Technical Support
+349,Please add dark mode. This is urgent.,Feature Request
+350,Package was damaged during delivery.,Shipping Problem
+351,Very poor quality product. I am frustrated.,Complaint
+352,I returned the item but haven't received my refund. It has been 3 days already.,Refund Request
+353,Customer service was very rude. Please help quickly.,Complaint
+354,Do you offer warranty for this product? I am frustrated.,Product Inquiry
+355,My account is locked. This is urgent.,Account Access
+356,Very poor quality product.,Complaint
+357,I see an unknown charge on my card. I am frustrated.,Billing Issue
+358,My invoice shows an incorrect amount.,Billing Issue
+359,I see an unknown charge on my card. Please help quickly.,Billing Issue
+360,It would be great to have offline access. Please help quickly.,Feature Request
+361,I received the wrong item. I am frustrated.,Shipping Problem
+362,I am very disappointed with your service. Kindly resolve ASAP.,Complaint
+363,This is unacceptable. I am frustrated.,Complaint
+364,Please process my refund immediately. It has been 3 days already.,Refund Request
+365,I received the wrong item. I am frustrated.,Shipping Problem
+366,Please reset my password.,Account Access
+367,Refund status is still pending. It has been 3 days already.,Refund Request
+368,This is unacceptable. It has been 3 days already.,Complaint
+369,Is this product compatible with Windows? It has been 3 days already.,Product Inquiry
+370,The app crashes when I open it.,Technical Support
+371,The system freezes after login. I am frustrated.,Technical Support
+372,Package was damaged during delivery. This is urgent.,Shipping Problem
+373,Please reset my password.,Account Access
+374,What are the specifications of this item? This is urgent.,Product Inquiry
+375,I cannot log into my account. I am frustrated.,Account Access
+376,Shipment is delayed.,Shipping Problem
+377,My account is locked. It has been 3 days already.,Account Access
+378,I suggest adding a dashboard feature.,Feature Request
+379,The tracking number is not working. I am frustrated.,Shipping Problem
+380,I am very disappointed with your service. It has been 3 days already.,Complaint
+381,Very poor quality product.,Complaint
+382,I am getting a server error. This is urgent.,Technical Support
+383,I suggest adding a dashboard feature. It has been 3 days already.,Feature Request
+384,I want a refund for my last purchase.,Refund Request
+385,What colors are available?,Product Inquiry
+386,What colors are available? I am frustrated.,Product Inquiry
+387,I am very disappointed with your service. Kindly resolve ASAP.,Complaint
+388,The app crashes when I open it. Please help quickly.,Technical Support
+389,Account was suspended without reason. Please help quickly.,Account Access
+390,Package was damaged during delivery.,Shipping Problem
+391,I am getting a server error. Please help quickly.,Technical Support
+392,My account is locked.,Account Access
+393,Delivery address was changed without notice. Please help quickly.,Shipping Problem
+394,Do you offer warranty for this product?,Product Inquiry
+395,Cancel my order and issue refund. This is urgent.,Refund Request
+396,Please process my refund immediately. It has been 3 days already.,Refund Request
+397,Shipment is delayed. Kindly resolve ASAP.,Shipping Problem
+398,I returned the item but haven't received my refund. It has been 3 days already.,Refund Request
+399,Cancel my order and issue refund. Kindly resolve ASAP.,Refund Request
+400,Can you explain how this product works? Please help quickly.,Product Inquiry
+401,Payment failed but money was deducted. It has been 3 days already.,Billing Issue
+402,I was charged twice for my subscription. It has been 3 days already.,Billing Issue
+403,Can you explain how this product works? This is urgent.,Product Inquiry
+404,Is this product compatible with Windows? This is urgent.,Product Inquiry
+405,I had a terrible experience. Kindly resolve ASAP.,Complaint
+406,My order has not arrived yet. Kindly resolve ASAP.,Shipping Problem
+407,Customer service was very rude. I am frustrated.,Complaint
+408,Shipment is delayed. Kindly resolve ASAP.,Shipping Problem
+409,I suggest adding a dashboard feature.,Feature Request
+410,Customer service was very rude. Kindly resolve ASAP.,Complaint
+411,What colors are available? It has been 3 days already.,Product Inquiry
+412,The app crashes when I open it. This is urgent.,Technical Support
+413,Please reset my password.,Account Access
+414,Cancel my order and issue refund. It has been 3 days already.,Refund Request
+415,Customer service was very rude. It has been 3 days already.,Complaint
+416,Shipment is delayed. It has been 3 days already.,Shipping Problem
+417,Refund status is still pending. Please help quickly.,Refund Request
+418,The tracking number is not working. This is urgent.,Shipping Problem
+419,I returned the item but haven't received my refund. I am frustrated.,Refund Request
+420,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+421,I am very disappointed with your service. Kindly resolve ASAP.,Complaint
+422,Mobile app keeps logging me out. This is urgent.,Technical Support
+423,My invoice shows an incorrect amount.,Billing Issue
+424,Can you explain how this product works? I am frustrated.,Product Inquiry
+425,I returned the item but haven't received my refund. I am frustrated.,Refund Request
+426,I suggest adding a dashboard feature. Kindly resolve ASAP.,Feature Request
+427,Is this product compatible with Windows? Kindly resolve ASAP.,Product Inquiry
+428,Error code 500 appears frequently. I am frustrated.,Technical Support
+429,Is this product compatible with Windows? This is urgent.,Product Inquiry
+430,I cannot log into my account. This is urgent.,Account Access
+431,Is this product compatible with Windows? This is urgent.,Product Inquiry
+432,Mobile app keeps logging me out. Kindly resolve ASAP.,Technical Support
+433,Please process my refund immediately. I am frustrated.,Refund Request
+434,Do you offer warranty for this product? This is urgent.,Product Inquiry
+435,Does this support Android devices? I am frustrated.,Product Inquiry
+436,I want a refund for my last purchase. This is urgent.,Refund Request
+437,I returned the item but haven't received my refund. This is urgent.,Refund Request
+438,I received the wrong item. It has been 3 days already.,Shipping Problem
+439,The app crashes when I open it. Please help quickly.,Technical Support
+440,What colors are available?,Product Inquiry
+441,"The product did not meet expectations, refund me. Please help quickly.",Refund Request
+442,Refund status is still pending. I am frustrated.,Refund Request
+443,Very poor quality product. This is urgent.,Complaint
+444,The app crashes when I open it. It has been 3 days already.,Technical Support
+445,Package was damaged during delivery.,Shipping Problem
+446,I want a refund for my last purchase. Please help quickly.,Refund Request
+447,I suggest adding a dashboard feature. Please help quickly.,Feature Request
+448,It would be great to have offline access. Please help quickly.,Feature Request
+449,Two-factor authentication is not working. I am frustrated.,Account Access
+450,Refund status is still pending. This is urgent.,Refund Request
+451,Refund status is still pending. Kindly resolve ASAP.,Refund Request
+452,Do you offer warranty for this product?,Product Inquiry
+453,The tracking number is not working. I am frustrated.,Shipping Problem
+454,Please add dark mode. It has been 3 days already.,Feature Request
+455,Payment failed but money was deducted.,Billing Issue
+456,My order has not arrived yet. Please help quickly.,Shipping Problem
+457,My invoice shows an incorrect amount.,Billing Issue
+458,The app crashes when I open it. It has been 3 days already.,Technical Support
+459,Subscription renewal amount is wrong. Please help quickly.,Billing Issue
+460,Can you add multi-language support? It has been 3 days already.,Feature Request
+461,This is unacceptable. It has been 3 days already.,Complaint
+462,Mobile app keeps logging me out. It has been 3 days already.,Technical Support
+463,Add integration with Google Drive. I am frustrated.,Feature Request
+464,My order has not arrived yet. It has been 3 days already.,Shipping Problem
+465,"The product did not meet expectations, refund me.",Refund Request
+466,It would be great to have offline access.,Feature Request
+467,Customer service was very rude.,Complaint
+468,Shipment is delayed. It has been 3 days already.,Shipping Problem
+469,What are the specifications of this item?,Product Inquiry
+470,It would be great to have offline access. This is urgent.,Feature Request
+471,The tracking number is not working. I am frustrated.,Shipping Problem
+472,I am very disappointed with your service. Please help quickly.,Complaint
+473,Login OTP is not arriving. I am frustrated.,Account Access
+474,Please process my refund immediately. This is urgent.,Refund Request
+475,I want a refund for my last purchase. I am frustrated.,Refund Request
+476,Is this product compatible with Windows? Please help quickly.,Product Inquiry
+477,I was charged twice for my subscription. It has been 3 days already.,Billing Issue
+478,Very poor quality product.,Complaint
+479,The app crashes when I open it. Kindly resolve ASAP.,Technical Support
+480,I see an unknown charge on my card. It has been 3 days already.,Billing Issue
+481,Error code 500 appears frequently. I am frustrated.,Technical Support
+482,Please process my refund immediately. It has been 3 days already.,Refund Request
+483,Do you offer warranty for this product? Kindly resolve ASAP.,Product Inquiry
+484,My order has not arrived yet. It has been 3 days already.,Shipping Problem
+485,My account is locked. It has been 3 days already.,Account Access
+486,Does this support Android devices? It has been 3 days already.,Product Inquiry
+487,I returned the item but haven't received my refund.,Refund Request
+488,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+489,Does this support Android devices?,Product Inquiry
+490,I want a refund for my last purchase. I am frustrated.,Refund Request
+491,I suggest adding a dashboard feature.,Feature Request
+492,My account is locked. It has been 3 days already.,Account Access
+493,The tracking number is not working. I am frustrated.,Shipping Problem
+494,Please reset my password. This is urgent.,Account Access
+495,I see an unknown charge on my card. This is urgent.,Billing Issue
+496,Can you explain how this product works? I am frustrated.,Product Inquiry
+497,I cannot log into my account. Please help quickly.,Account Access
+498,Is this product compatible with Windows? Please help quickly.,Product Inquiry
+499,Error code 500 appears frequently. This is urgent.,Technical Support
+500,I suggest adding a dashboard feature. I am frustrated.,Feature Request
+501,Can you add multi-language support? This is urgent.,Feature Request
+502,I am very disappointed with your service. Kindly resolve ASAP.,Complaint
+503,Please reset my password.,Account Access
+504,My order has not arrived yet. It has been 3 days already.,Shipping Problem
+505,What are the specifications of this item?,Product Inquiry
+506,Support team is not responding. Please help quickly.,Complaint
+507,I am getting a server error. Please help quickly.,Technical Support
+508,What colors are available? I am frustrated.,Product Inquiry
+509,Can you explain how this product works? This is urgent.,Product Inquiry
+510,I had a terrible experience. This is urgent.,Complaint
+511,What colors are available? I am frustrated.,Product Inquiry
+512,My invoice shows an incorrect amount. Please help quickly.,Billing Issue
+513,Please process my refund immediately. This is urgent.,Refund Request
+514,Customer service was very rude. Kindly resolve ASAP.,Complaint
+515,Delivery address was changed without notice. Kindly resolve ASAP.,Shipping Problem
+516,I had a terrible experience. Please help quickly.,Complaint
+517,The tracking number is not working. Please help quickly.,Shipping Problem
+518,Customer service was very rude. I am frustrated.,Complaint
+519,What are the specifications of this item? This is urgent.,Product Inquiry
+520,Do you offer warranty for this product? I am frustrated.,Product Inquiry
+521,I am very disappointed with your service. Please help quickly.,Complaint
+522,Shipment is delayed. Kindly resolve ASAP.,Shipping Problem
+523,What colors are available? I am frustrated.,Product Inquiry
+524,Package was damaged during delivery. It has been 3 days already.,Shipping Problem
+525,Account was suspended without reason. Please help quickly.,Account Access
+526,Shipment is delayed. I am frustrated.,Shipping Problem
+527,Can you add multi-language support? Kindly resolve ASAP.,Feature Request
+528,I cannot log into my account. I am frustrated.,Account Access
+529,Please reset my password. I am frustrated.,Account Access
+530,Please process my refund immediately. It has been 3 days already.,Refund Request
+531,Support team is not responding.,Complaint
+532,Refund status is still pending. Please help quickly.,Refund Request
+533,Mobile app keeps logging me out.,Technical Support
+534,Login OTP is not arriving. Kindly resolve ASAP.,Account Access
+535,My order has not arrived yet. It has been 3 days already.,Shipping Problem
+536,I received the wrong item. This is urgent.,Shipping Problem
+537,I want a refund for my last purchase. This is urgent.,Refund Request
+538,I returned the item but haven't received my refund. Please help quickly.,Refund Request
+539,Shipment is delayed. This is urgent.,Shipping Problem
+540,My order has not arrived yet.,Shipping Problem
+541,Can you add multi-language support? It has been 3 days already.,Feature Request
+542,I was charged twice for my subscription. Please help quickly.,Billing Issue
+543,Account was suspended without reason.,Account Access
+544,Why was I billed after cancellation?,Billing Issue
+545,Please introduce push notifications. Kindly resolve ASAP.,Feature Request
+546,Support team is not responding. This is urgent.,Complaint
+547,Is this product compatible with Windows? I am frustrated.,Product Inquiry
+548,Refund status is still pending. Kindly resolve ASAP.,Refund Request
+549,Can you add multi-language support? Kindly resolve ASAP.,Feature Request
+550,The app crashes when I open it. I am frustrated.,Technical Support
+551,What colors are available? This is urgent.,Product Inquiry
+552,I am very disappointed with your service. This is urgent.,Complaint
+553,I was charged twice for my subscription. Kindly resolve ASAP.,Billing Issue
+554,Can you explain how this product works? Kindly resolve ASAP.,Product Inquiry
+555,My invoice shows an incorrect amount. Please help quickly.,Billing Issue
+556,I was charged twice for my subscription. Kindly resolve ASAP.,Billing Issue
+557,"The product did not meet expectations, refund me. Kindly resolve ASAP.",Refund Request
+558,The tracking number is not working. Kindly resolve ASAP.,Shipping Problem
+559,Can you explain how this product works?,Product Inquiry
+560,I had a terrible experience. I am frustrated.,Complaint
+561,Please add dark mode.,Feature Request
+562,I had a terrible experience. Please help quickly.,Complaint
+563,Login OTP is not arriving.,Account Access
+564,Why was I billed after cancellation?,Billing Issue
+565,I received the wrong item. This is urgent.,Shipping Problem
+566,Add integration with Google Drive. Kindly resolve ASAP.,Feature Request
+567,My account is locked. This is urgent.,Account Access
+568,The app crashes when I open it.,Technical Support
+569,Account was suspended without reason. This is urgent.,Account Access
+570,I am getting a server error. I am frustrated.,Technical Support
+571,Very poor quality product. I am frustrated.,Complaint
+572,Website is not loading properly. Please help quickly.,Technical Support
+573,The tracking number is not working. Please help quickly.,Shipping Problem
+574,Very poor quality product. Please help quickly.,Complaint
+575,Package was damaged during delivery. Please help quickly.,Shipping Problem
+576,I want a refund for my last purchase. This is urgent.,Refund Request
+577,Please reset my password. I am frustrated.,Account Access
+578,Cancel my order and issue refund. Please help quickly.,Refund Request
+579,Please add dark mode.,Feature Request
+580,The system freezes after login. Please help quickly.,Technical Support
+581,Can you add multi-language support? This is urgent.,Feature Request
+582,Please introduce push notifications. This is urgent.,Feature Request
+583,It would be great to have offline access. I am frustrated.,Feature Request
+584,I cannot log into my account.,Account Access
+585,Cancel my order and issue refund. It has been 3 days already.,Refund Request
+586,What are the specifications of this item? It has been 3 days already.,Product Inquiry
+587,I want a refund for my last purchase. I am frustrated.,Refund Request
+588,Cancel my order and issue refund. I am frustrated.,Refund Request
+589,I returned the item but haven't received my refund.,Refund Request
+590,I am getting a server error. This is urgent.,Technical Support
+591,Cancel my order and issue refund.,Refund Request
+592,I see an unknown charge on my card.,Billing Issue
+593,The system freezes after login. Kindly resolve ASAP.,Technical Support
+594,Please process my refund immediately. It has been 3 days already.,Refund Request
+595,Can you explain how this product works? I am frustrated.,Product Inquiry
+596,I cannot log into my account. Please help quickly.,Account Access
+597,Website is not loading properly. I am frustrated.,Technical Support
+598,Cancel my order and issue refund. Kindly resolve ASAP.,Refund Request
+599,I cannot log into my account. It has been 3 days already.,Account Access
+600,Package was damaged during delivery. I am frustrated.,Shipping Problem
+601,It would be great to have offline access. Kindly resolve ASAP.,Feature Request
+602,What are the specifications of this item? I am frustrated.,Product Inquiry
+603,Package was damaged during delivery. Please help quickly.,Shipping Problem
+604,Subscription renewal amount is wrong. Please help quickly.,Billing Issue
+605,I see an unknown charge on my card. Please help quickly.,Billing Issue
+606,Cancel my order and issue refund. This is urgent.,Refund Request
+607,What are the specifications of this item? This is urgent.,Product Inquiry
+608,Customer service was very rude. It has been 3 days already.,Complaint
+609,Refund status is still pending. Kindly resolve ASAP.,Refund Request
+610,Shipment is delayed. It has been 3 days already.,Shipping Problem
+611,Very poor quality product. Please help quickly.,Complaint
+612,Please reset my password. I am frustrated.,Account Access
+613,My order has not arrived yet.,Shipping Problem
+614,Error code 500 appears frequently. This is urgent.,Technical Support
+615,Payment failed but money was deducted. Kindly resolve ASAP.,Billing Issue
+616,Package was damaged during delivery. Please help quickly.,Shipping Problem
+617,Do you offer warranty for this product? Kindly resolve ASAP.,Product Inquiry
+618,Subscription renewal amount is wrong.,Billing Issue
+619,This is unacceptable. It has been 3 days already.,Complaint
+620,Error code 500 appears frequently. It has been 3 days already.,Technical Support
+621,Support team is not responding. Please help quickly.,Complaint
+622,Account was suspended without reason. Please help quickly.,Account Access
+623,Can you add multi-language support?,Feature Request
+624,I received the wrong item. It has been 3 days already.,Shipping Problem
+625,Payment failed but money was deducted.,Billing Issue
+626,Please reset my password. Please help quickly.,Account Access
+627,My invoice shows an incorrect amount. I am frustrated.,Billing Issue
+628,My account is locked. Kindly resolve ASAP.,Account Access
+629,Do you offer warranty for this product? Please help quickly.,Product Inquiry
+630,Login OTP is not arriving. Kindly resolve ASAP.,Account Access
+631,Please process my refund immediately. It has been 3 days already.,Refund Request
+632,I suggest adding a dashboard feature. This is urgent.,Feature Request
+633,What are the specifications of this item? Please help quickly.,Product Inquiry
+634,Why was I billed after cancellation? Kindly resolve ASAP.,Billing Issue
+635,I was charged twice for my subscription. This is urgent.,Billing Issue
+636,Customer service was very rude. Kindly resolve ASAP.,Complaint
+637,Why was I billed after cancellation? This is urgent.,Billing Issue
+638,I received the wrong item. It has been 3 days already.,Shipping Problem
+639,It would be great to have offline access. I am frustrated.,Feature Request
+640,I suggest adding a dashboard feature. It has been 3 days already.,Feature Request
+641,Is this product compatible with Windows?,Product Inquiry
+642,I am very disappointed with your service.,Complaint
+643,Website is not loading properly. It has been 3 days already.,Technical Support
+644,The system freezes after login. It has been 3 days already.,Technical Support
+645,I had a terrible experience.,Complaint
+646,Add integration with Google Drive.,Feature Request
+647,I had a terrible experience. This is urgent.,Complaint
+648,Is this product compatible with Windows? I am frustrated.,Product Inquiry
+649,Package was damaged during delivery. This is urgent.,Shipping Problem
+650,Support team is not responding.,Complaint
+651,Refund status is still pending. Kindly resolve ASAP.,Refund Request
+652,My invoice shows an incorrect amount. I am frustrated.,Billing Issue
+653,Why was I billed after cancellation?,Billing Issue
+654,Payment failed but money was deducted. Kindly resolve ASAP.,Billing Issue
+655,The system freezes after login. I am frustrated.,Technical Support
+656,Why was I billed after cancellation? I am frustrated.,Billing Issue
+657,Package was damaged during delivery. Please help quickly.,Shipping Problem
+658,I see an unknown charge on my card. Please help quickly.,Billing Issue
+659,What colors are available? Please help quickly.,Product Inquiry
+660,Is this product compatible with Windows?,Product Inquiry
+661,This is unacceptable. Kindly resolve ASAP.,Complaint
+662,Very poor quality product. Please help quickly.,Complaint
+663,Can you add multi-language support? This is urgent.,Feature Request
+664,Please reset my password. It has been 3 days already.,Account Access
+665,Website is not loading properly. This is urgent.,Technical Support
+666,Error code 500 appears frequently. This is urgent.,Technical Support
+667,Refund status is still pending. Please help quickly.,Refund Request
+668,The tracking number is not working.,Shipping Problem
+669,Very poor quality product. This is urgent.,Complaint
+670,I suggest adding a dashboard feature. Please help quickly.,Feature Request
+671,I am very disappointed with your service. This is urgent.,Complaint
+672,It would be great to have offline access. Please help quickly.,Feature Request
+673,I was charged twice for my subscription. Kindly resolve ASAP.,Billing Issue
+674,Support team is not responding. This is urgent.,Complaint
+675,Payment failed but money was deducted. This is urgent.,Billing Issue
+676,Two-factor authentication is not working.,Account Access
+677,Does this support Android devices?,Product Inquiry
+678,Website is not loading properly. I am frustrated.,Technical Support
+679,Is this product compatible with Windows?,Product Inquiry
+680,What colors are available? It has been 3 days already.,Product Inquiry
+681,Payment failed but money was deducted. Please help quickly.,Billing Issue
+682,Login OTP is not arriving. I am frustrated.,Account Access
+683,My invoice shows an incorrect amount.,Billing Issue
+684,Website is not loading properly. Kindly resolve ASAP.,Technical Support
+685,The system freezes after login. Kindly resolve ASAP.,Technical Support
+686,I am getting a server error. Kindly resolve ASAP.,Technical Support
+687,Refund status is still pending. Kindly resolve ASAP.,Refund Request
+688,What colors are available? Kindly resolve ASAP.,Product Inquiry
+689,Add integration with Google Drive.,Feature Request
+690,"The product did not meet expectations, refund me. I am frustrated.",Refund Request
+691,Is this product compatible with Windows? It has been 3 days already.,Product Inquiry
+692,Mobile app keeps logging me out.,Technical Support
+693,Why was I billed after cancellation?,Billing Issue
+694,Package was damaged during delivery. Please help quickly.,Shipping Problem
+695,Can you add multi-language support?,Feature Request
+696,My invoice shows an incorrect amount. I am frustrated.,Billing Issue
+697,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+698,The tracking number is not working. It has been 3 days already.,Shipping Problem
+699,I see an unknown charge on my card. I am frustrated.,Billing Issue
+700,Cancel my order and issue refund. Please help quickly.,Refund Request
+701,Refund status is still pending.,Refund Request
+702,My invoice shows an incorrect amount. I am frustrated.,Billing Issue
+703,The tracking number is not working. I am frustrated.,Shipping Problem
+704,Can you add multi-language support? I am frustrated.,Feature Request
+705,Two-factor authentication is not working. Please help quickly.,Account Access
+706,Account was suspended without reason. This is urgent.,Account Access
+707,Payment failed but money was deducted. Please help quickly.,Billing Issue
+708,Customer service was very rude. Kindly resolve ASAP.,Complaint
+709,Mobile app keeps logging me out. I am frustrated.,Technical Support
+710,My invoice shows an incorrect amount.,Billing Issue
+711,My account is locked. It has been 3 days already.,Account Access
+712,Please process my refund immediately. It has been 3 days already.,Refund Request
+713,Error code 500 appears frequently. It has been 3 days already.,Technical Support
+714,Mobile app keeps logging me out. Please help quickly.,Technical Support
+715,My order has not arrived yet. It has been 3 days already.,Shipping Problem
+716,Is this product compatible with Windows? Please help quickly.,Product Inquiry
+717,Account was suspended without reason. Kindly resolve ASAP.,Account Access
+718,I had a terrible experience.,Complaint
+719,Is this product compatible with Windows? Kindly resolve ASAP.,Product Inquiry
+720,Shipment is delayed. Please help quickly.,Shipping Problem
+721,I cannot log into my account. It has been 3 days already.,Account Access
+722,Please reset my password. Please help quickly.,Account Access
+723,My invoice shows an incorrect amount. Kindly resolve ASAP.,Billing Issue
+724,Please reset my password. It has been 3 days already.,Account Access
+725,Two-factor authentication is not working. Kindly resolve ASAP.,Account Access
+726,Please add dark mode. It has been 3 days already.,Feature Request
+727,Payment failed but money was deducted. I am frustrated.,Billing Issue
+728,Package was damaged during delivery. I am frustrated.,Shipping Problem
+729,Payment failed but money was deducted. This is urgent.,Billing Issue
+730,Please add dark mode. Kindly resolve ASAP.,Feature Request
+731,I want a refund for my last purchase. Kindly resolve ASAP.,Refund Request
+732,Is this product compatible with Windows? I am frustrated.,Product Inquiry
+733,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+734,Mobile app keeps logging me out. It has been 3 days already.,Technical Support
+735,Error code 500 appears frequently. Please help quickly.,Technical Support
+736,Very poor quality product. It has been 3 days already.,Complaint
+737,Very poor quality product. It has been 3 days already.,Complaint
+738,What colors are available? Please help quickly.,Product Inquiry
+739,"The product did not meet expectations, refund me. It has been 3 days already.",Refund Request
+740,"The product did not meet expectations, refund me.",Refund Request
+741,I want a refund for my last purchase.,Refund Request
+742,Delivery address was changed without notice. Please help quickly.,Shipping Problem
+743,I had a terrible experience. Please help quickly.,Complaint
+744,Website is not loading properly. This is urgent.,Technical Support
+745,Subscription renewal amount is wrong. Please help quickly.,Billing Issue
+746,Does this support Android devices? Please help quickly.,Product Inquiry
+747,It would be great to have offline access. It has been 3 days already.,Feature Request
+748,Support team is not responding. I am frustrated.,Complaint
+749,"The product did not meet expectations, refund me.",Refund Request
+750,My invoice shows an incorrect amount.,Billing Issue
+751,Login OTP is not arriving. This is urgent.,Account Access
+752,I want a refund for my last purchase. It has been 3 days already.,Refund Request
+753,Error code 500 appears frequently. Kindly resolve ASAP.,Technical Support
+754,Does this support Android devices?,Product Inquiry
+755,What are the specifications of this item? It has been 3 days already.,Product Inquiry
+756,My order has not arrived yet. It has been 3 days already.,Shipping Problem
+757,Can you add multi-language support? Please help quickly.,Feature Request
+758,The app crashes when I open it. Kindly resolve ASAP.,Technical Support
+759,Very poor quality product. This is urgent.,Complaint
+760,What colors are available? I am frustrated.,Product Inquiry
+761,Is this product compatible with Windows? Kindly resolve ASAP.,Product Inquiry
+762,The tracking number is not working.,Shipping Problem
+763,Mobile app keeps logging me out.,Technical Support
+764,This is unacceptable. It has been 3 days already.,Complaint
+765,Please reset my password. This is urgent.,Account Access
+766,Please process my refund immediately. Please help quickly.,Refund Request
+767,Package was damaged during delivery. I am frustrated.,Shipping Problem
+768,Cancel my order and issue refund. It has been 3 days already.,Refund Request
+769,I was charged twice for my subscription. I am frustrated.,Billing Issue
+770,My account is locked. Kindly resolve ASAP.,Account Access
+771,I want a refund for my last purchase. Kindly resolve ASAP.,Refund Request
+772,I want a refund for my last purchase. This is urgent.,Refund Request
+773,The system freezes after login.,Technical Support
+774,Why was I billed after cancellation? I am frustrated.,Billing Issue
+775,I am very disappointed with your service.,Complaint
+776,Can you add multi-language support? It has been 3 days already.,Feature Request
+777,Does this support Android devices?,Product Inquiry
+778,Can you add multi-language support? It has been 3 days already.,Feature Request
+779,Support team is not responding. This is urgent.,Complaint
+780,Does this support Android devices? It has been 3 days already.,Product Inquiry
+781,It would be great to have offline access. I am frustrated.,Feature Request
+782,Two-factor authentication is not working. Please help quickly.,Account Access
+783,"The product did not meet expectations, refund me. Please help quickly.",Refund Request
+784,Can you add multi-language support? Please help quickly.,Feature Request
+785,Support team is not responding. Kindly resolve ASAP.,Complaint
+786,I received the wrong item.,Shipping Problem
+787,Do you offer warranty for this product? I am frustrated.,Product Inquiry
+788,Please reset my password. Please help quickly.,Account Access
+789,I am getting a server error. This is urgent.,Technical Support
+790,Delivery address was changed without notice.,Shipping Problem
+791,My invoice shows an incorrect amount. This is urgent.,Billing Issue
+792,Please reset my password. It has been 3 days already.,Account Access
+793,Customer service was very rude.,Complaint
+794,Refund status is still pending. I am frustrated.,Refund Request
+795,Website is not loading properly. Please help quickly.,Technical Support
+796,Please add dark mode. Kindly resolve ASAP.,Feature Request
+797,Please add dark mode.,Feature Request
+798,What colors are available?,Product Inquiry
+799,I received the wrong item.,Shipping Problem
+800,Error code 500 appears frequently. I am frustrated.,Technical Support
+801,Please introduce push notifications. This is urgent.,Feature Request
+802,Support team is not responding.,Complaint
+803,I cannot log into my account. Please help quickly.,Account Access
+804,Please reset my password. I am frustrated.,Account Access
+805,My invoice shows an incorrect amount. This is urgent.,Billing Issue
+806,Please reset my password. It has been 3 days already.,Account Access
+807,I see an unknown charge on my card. It has been 3 days already.,Billing Issue
+808,Please introduce push notifications. I am frustrated.,Feature Request
+809,I want a refund for my last purchase. Please help quickly.,Refund Request
+810,Shipment is delayed. I am frustrated.,Shipping Problem
+811,Refund status is still pending. Kindly resolve ASAP.,Refund Request
+812,What are the specifications of this item? It has been 3 days already.,Product Inquiry
+813,I am very disappointed with your service.,Complaint
+814,My invoice shows an incorrect amount. Kindly resolve ASAP.,Billing Issue
+815,Add integration with Google Drive. This is urgent.,Feature Request
+816,"The product did not meet expectations, refund me. Kindly resolve ASAP.",Refund Request
+817,Please reset my password. It has been 3 days already.,Account Access
+818,The app crashes when I open it.,Technical Support
+819,Mobile app keeps logging me out. I am frustrated.,Technical Support
+820,Account was suspended without reason. It has been 3 days already.,Account Access
+821,I suggest adding a dashboard feature. I am frustrated.,Feature Request
+822,Payment failed but money was deducted. Kindly resolve ASAP.,Billing Issue
+823,It would be great to have offline access. This is urgent.,Feature Request
+824,My account is locked. I am frustrated.,Account Access
+825,The tracking number is not working. It has been 3 days already.,Shipping Problem
+826,Two-factor authentication is not working. This is urgent.,Account Access
+827,Delivery address was changed without notice. I am frustrated.,Shipping Problem
+828,Please process my refund immediately. This is urgent.,Refund Request
+829,I am very disappointed with your service. Kindly resolve ASAP.,Complaint
+830,Account was suspended without reason. Please help quickly.,Account Access
+831,Please introduce push notifications.,Feature Request
+832,Can you add multi-language support?,Feature Request
+833,Can you add multi-language support? This is urgent.,Feature Request
+834,Add integration with Google Drive. Kindly resolve ASAP.,Feature Request
+835,Why was I billed after cancellation? It has been 3 days already.,Billing Issue
+836,Account was suspended without reason. It has been 3 days already.,Account Access
+837,Delivery address was changed without notice. Kindly resolve ASAP.,Shipping Problem
+838,Does this support Android devices?,Product Inquiry
+839,Is this product compatible with Windows? This is urgent.,Product Inquiry
+840,"The product did not meet expectations, refund me. Please help quickly.",Refund Request
+841,This is unacceptable. This is urgent.,Complaint
+842,Cancel my order and issue refund. This is urgent.,Refund Request
+843,I am getting a server error. I am frustrated.,Technical Support
+844,Package was damaged during delivery. It has been 3 days already.,Shipping Problem
+845,Is this product compatible with Windows? This is urgent.,Product Inquiry
+846,Why was I billed after cancellation?,Billing Issue
+847,The app crashes when I open it.,Technical Support
+848,Shipment is delayed. It has been 3 days already.,Shipping Problem
+849,Add integration with Google Drive. Kindly resolve ASAP.,Feature Request
+850,The app crashes when I open it. It has been 3 days already.,Technical Support
+851,Very poor quality product. Kindly resolve ASAP.,Complaint
+852,Add integration with Google Drive. I am frustrated.,Feature Request
+853,Does this support Android devices?,Product Inquiry
+854,Why was I billed after cancellation? Kindly resolve ASAP.,Billing Issue
+855,The app crashes when I open it. Kindly resolve ASAP.,Technical Support
+856,The system freezes after login. It has been 3 days already.,Technical Support
+857,It would be great to have offline access.,Feature Request
+858,Cancel my order and issue refund. It has been 3 days already.,Refund Request
+859,I was charged twice for my subscription. This is urgent.,Billing Issue
+860,Please reset my password. It has been 3 days already.,Account Access
+861,Delivery address was changed without notice. This is urgent.,Shipping Problem
+862,I am very disappointed with your service. Please help quickly.,Complaint
+863,Can you explain how this product works? Please help quickly.,Product Inquiry
+864,Login OTP is not arriving. I am frustrated.,Account Access
+865,Account was suspended without reason. This is urgent.,Account Access
+866,Can you explain how this product works? Please help quickly.,Product Inquiry
+867,I want a refund for my last purchase. I am frustrated.,Refund Request
+868,What colors are available? Kindly resolve ASAP.,Product Inquiry
+869,Delivery address was changed without notice. Kindly resolve ASAP.,Shipping Problem
+870,Shipment is delayed. Please help quickly.,Shipping Problem
+871,Customer service was very rude. This is urgent.,Complaint
+872,Website is not loading properly.,Technical Support
+873,Please introduce push notifications.,Feature Request
+874,Package was damaged during delivery.,Shipping Problem
+875,My account is locked. This is urgent.,Account Access
+876,Refund status is still pending. Kindly resolve ASAP.,Refund Request
+877,What are the specifications of this item? Kindly resolve ASAP.,Product Inquiry
+878,This is unacceptable. Please help quickly.,Complaint
+879,I suggest adding a dashboard feature. I am frustrated.,Feature Request
+880,Error code 500 appears frequently. Please help quickly.,Technical Support
+881,Mobile app keeps logging me out. Kindly resolve ASAP.,Technical Support
+882,This is unacceptable.,Complaint
+883,Please reset my password. Kindly resolve ASAP.,Account Access
+884,Two-factor authentication is not working. I am frustrated.,Account Access
+885,The tracking number is not working. This is urgent.,Shipping Problem
+886,I am getting a server error.,Technical Support
+887,I suggest adding a dashboard feature. I am frustrated.,Feature Request
+888,Please introduce push notifications. It has been 3 days already.,Feature Request
+889,"The product did not meet expectations, refund me. Kindly resolve ASAP.",Refund Request
+890,I want a refund for my last purchase. Please help quickly.,Refund Request
+891,Login OTP is not arriving. This is urgent.,Account Access
+892,The app crashes when I open it. This is urgent.,Technical Support
+893,I received the wrong item. This is urgent.,Shipping Problem
+894,Login OTP is not arriving.,Account Access
+895,I received the wrong item. I am frustrated.,Shipping Problem
+896,Subscription renewal amount is wrong. Please help quickly.,Billing Issue
+897,I had a terrible experience. Please help quickly.,Complaint
+898,Error code 500 appears frequently. It has been 3 days already.,Technical Support
+899,Two-factor authentication is not working. It has been 3 days already.,Account Access
+900,I want a refund for my last purchase. I am frustrated.,Refund Request
+901,Website is not loading properly.,Technical Support
+902,This is unacceptable. This is urgent.,Complaint
+903,Can you explain how this product works? Kindly resolve ASAP.,Product Inquiry
+904,My order has not arrived yet.,Shipping Problem
+905,Can you explain how this product works? Kindly resolve ASAP.,Product Inquiry
+906,Account was suspended without reason. It has been 3 days already.,Account Access
+907,Do you offer warranty for this product? Kindly resolve ASAP.,Product Inquiry
+908,What colors are available? This is urgent.,Product Inquiry
+909,Delivery address was changed without notice. Kindly resolve ASAP.,Shipping Problem
+910,Cancel my order and issue refund. I am frustrated.,Refund Request
+911,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+912,Support team is not responding.,Complaint
+913,What colors are available? Kindly resolve ASAP.,Product Inquiry
+914,Support team is not responding. It has been 3 days already.,Complaint
+915,Customer service was very rude. Please help quickly.,Complaint
+916,Why was I billed after cancellation? Please help quickly.,Billing Issue
+917,What are the specifications of this item?,Product Inquiry
+918,Can you add multi-language support?,Feature Request
+919,My account is locked. It has been 3 days already.,Account Access
+920,I see an unknown charge on my card.,Billing Issue
+921,Does this support Android devices? This is urgent.,Product Inquiry
+922,I returned the item but haven't received my refund. This is urgent.,Refund Request
+923,I see an unknown charge on my card. I am frustrated.,Billing Issue
+924,Package was damaged during delivery. Kindly resolve ASAP.,Shipping Problem
+925,Mobile app keeps logging me out. I am frustrated.,Technical Support
+926,Add integration with Google Drive. Kindly resolve ASAP.,Feature Request
+927,Error code 500 appears frequently. This is urgent.,Technical Support
+928,"The product did not meet expectations, refund me. I am frustrated.",Refund Request
+929,I cannot log into my account. It has been 3 days already.,Account Access
+930,I am getting a server error. This is urgent.,Technical Support
+931,Cancel my order and issue refund. Kindly resolve ASAP.,Refund Request
+932,It would be great to have offline access. It has been 3 days already.,Feature Request
+933,Mobile app keeps logging me out. Kindly resolve ASAP.,Technical Support
+934,Refund status is still pending.,Refund Request
+935,Please add dark mode. This is urgent.,Feature Request
+936,Does this support Android devices? This is urgent.,Product Inquiry
+937,What colors are available? I am frustrated.,Product Inquiry
+938,Please add dark mode. It has been 3 days already.,Feature Request
+939,Shipment is delayed. Kindly resolve ASAP.,Shipping Problem
+940,Why was I billed after cancellation?,Billing Issue
+941,The app crashes when I open it. I am frustrated.,Technical Support
+942,Subscription renewal amount is wrong. Please help quickly.,Billing Issue
+943,I suggest adding a dashboard feature. Please help quickly.,Feature Request
+944,I am very disappointed with your service. Please help quickly.,Complaint
+945,Support team is not responding.,Complaint
+946,Why was I billed after cancellation?,Billing Issue
+947,Shipment is delayed. Kindly resolve ASAP.,Shipping Problem
+948,I am getting a server error. This is urgent.,Technical Support
+949,Why was I billed after cancellation? It has been 3 days already.,Billing Issue
+950,It would be great to have offline access. I am frustrated.,Feature Request
+951,Account was suspended without reason. Please help quickly.,Account Access
+952,I returned the item but haven't received my refund. It has been 3 days already.,Refund Request
+953,Login OTP is not arriving.,Account Access
+954,Is this product compatible with Windows? Please help quickly.,Product Inquiry
+955,Package was damaged during delivery. I am frustrated.,Shipping Problem
+956,Does this support Android devices? This is urgent.,Product Inquiry
+957,My order has not arrived yet. Please help quickly.,Shipping Problem
+958,Delivery address was changed without notice. This is urgent.,Shipping Problem
+959,My order has not arrived yet. I am frustrated.,Shipping Problem
+960,Add integration with Google Drive. It has been 3 days already.,Feature Request
+961,What colors are available?,Product Inquiry
+962,Please introduce push notifications. I am frustrated.,Feature Request
+963,Can you explain how this product works? I am frustrated.,Product Inquiry
+964,I cannot log into my account. It has been 3 days already.,Account Access
+965,Support team is not responding. This is urgent.,Complaint
+966,Package was damaged during delivery. It has been 3 days already.,Shipping Problem
+967,Error code 500 appears frequently. This is urgent.,Technical Support
+968,Shipment is delayed.,Shipping Problem
+969,Package was damaged during delivery. I am frustrated.,Shipping Problem
+970,I am getting a server error. It has been 3 days already.,Technical Support
+971,I was charged twice for my subscription. Please help quickly.,Billing Issue
+972,Payment failed but money was deducted. This is urgent.,Billing Issue
+973,I cannot log into my account. Please help quickly.,Account Access
+974,Why was I billed after cancellation?,Billing Issue
+975,Customer service was very rude. I am frustrated.,Complaint
+976,Can you add multi-language support?,Feature Request
+977,Subscription renewal amount is wrong. This is urgent.,Billing Issue
+978,My account is locked. It has been 3 days already.,Account Access
+979,I am very disappointed with your service. Please help quickly.,Complaint
+980,It would be great to have offline access. It has been 3 days already.,Feature Request
+981,Please reset my password. This is urgent.,Account Access
+982,I cannot log into my account. I am frustrated.,Account Access
+983,Why was I billed after cancellation? This is urgent.,Billing Issue
+984,My account is locked. I am frustrated.,Account Access
+985,Shipment is delayed. Please help quickly.,Shipping Problem
+986,I was charged twice for my subscription. It has been 3 days already.,Billing Issue
+987,What are the specifications of this item? It has been 3 days already.,Product Inquiry
+988,This is unacceptable. It has been 3 days already.,Complaint
+989,What are the specifications of this item? Kindly resolve ASAP.,Product Inquiry
+990,Account was suspended without reason. I am frustrated.,Account Access
+991,Can you add multi-language support? Kindly resolve ASAP.,Feature Request
+992,Mobile app keeps logging me out. Please help quickly.,Technical Support
+993,I returned the item but haven't received my refund. This is urgent.,Refund Request
+994,What are the specifications of this item? This is urgent.,Product Inquiry
+995,Mobile app keeps logging me out. This is urgent.,Technical Support
+996,"The product did not meet expectations, refund me. Kindly resolve ASAP.",Refund Request
+997,Please introduce push notifications. This is urgent.,Feature Request
+998,I cannot log into my account.,Account Access
+999,Mobile app keeps logging me out. It has been 3 days already.,Technical Support
+1000,Does this support Android devices? It has been 3 days already.,Product Inquiry
+1001,I cannot log into my account.,Account Access
+1002,My order has not arrived yet.,Shipping Problem
+1003,What colors are available? This is urgent.,Product Inquiry
+1004,Is this product compatible with Windows? Kindly resolve ASAP.,Product Inquiry
+1005,Account was suspended without reason. I am frustrated.,Account Access
+1006,Can you add multi-language support? It has been 3 days already.,Feature Request
+1007,What colors are available?,Product Inquiry
+1008,Package was damaged during delivery. I am frustrated.,Shipping Problem
+1009,It would be great to have offline access. Kindly resolve ASAP.,Feature Request
+1010,My invoice shows an incorrect amount. I am frustrated.,Billing Issue
+1011,Do you offer warranty for this product?,Product Inquiry
+1012,Very poor quality product. I am frustrated.,Complaint
+1013,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+1014,Subscription renewal amount is wrong. This is urgent.,Billing Issue
+1015,Do you offer warranty for this product? This is urgent.,Product Inquiry
+1016,Login OTP is not arriving. Please help quickly.,Account Access
+1017,This is unacceptable. It has been 3 days already.,Complaint
+1018,My account is locked. I am frustrated.,Account Access
+1019,I cannot log into my account. This is urgent.,Account Access
+1020,Please introduce push notifications. This is urgent.,Feature Request
+1021,Payment failed but money was deducted. This is urgent.,Billing Issue
+1022,I want a refund for my last purchase.,Refund Request
+1023,The tracking number is not working. I am frustrated.,Shipping Problem
+1024,The system freezes after login. Kindly resolve ASAP.,Technical Support
+1025,Support team is not responding. It has been 3 days already.,Complaint
+1026,Please process my refund immediately. I am frustrated.,Refund Request
+1027,Two-factor authentication is not working. I am frustrated.,Account Access
+1028,I see an unknown charge on my card. It has been 3 days already.,Billing Issue
+1029,Can you explain how this product works? Please help quickly.,Product Inquiry
+1030,The system freezes after login.,Technical Support
+1031,Error code 500 appears frequently. Please help quickly.,Technical Support
+1032,Support team is not responding. This is urgent.,Complaint
+1033,Support team is not responding. It has been 3 days already.,Complaint
+1034,I am very disappointed with your service.,Complaint
+1035,My account is locked. Kindly resolve ASAP.,Account Access
+1036,Very poor quality product. Please help quickly.,Complaint
+1037,It would be great to have offline access.,Feature Request
+1038,Website is not loading properly. Please help quickly.,Technical Support
+1039,Why was I billed after cancellation? It has been 3 days already.,Billing Issue
+1040,Cancel my order and issue refund.,Refund Request
+1041,I want a refund for my last purchase. I am frustrated.,Refund Request
+1042,I cannot log into my account. I am frustrated.,Account Access
+1043,Cancel my order and issue refund. This is urgent.,Refund Request
+1044,Very poor quality product. It has been 3 days already.,Complaint
+1045,The tracking number is not working. It has been 3 days already.,Shipping Problem
+1046,I had a terrible experience. I am frustrated.,Complaint
+1047,Payment failed but money was deducted. This is urgent.,Billing Issue
+1048,My order has not arrived yet. Please help quickly.,Shipping Problem
+1049,Account was suspended without reason. Please help quickly.,Account Access
+1050,Can you explain how this product works? Kindly resolve ASAP.,Product Inquiry
+1051,Does this support Android devices? This is urgent.,Product Inquiry
+1052,Very poor quality product.,Complaint
+1053,Do you offer warranty for this product? Kindly resolve ASAP.,Product Inquiry
+1054,Error code 500 appears frequently. I am frustrated.,Technical Support
+1055,I suggest adding a dashboard feature. I am frustrated.,Feature Request
+1056,I was charged twice for my subscription. Kindly resolve ASAP.,Billing Issue
+1057,Very poor quality product. I am frustrated.,Complaint
+1058,Do you offer warranty for this product? Please help quickly.,Product Inquiry
+1059,Can you explain how this product works? Please help quickly.,Product Inquiry
+1060,Customer service was very rude. Please help quickly.,Complaint
+1061,I was charged twice for my subscription.,Billing Issue
+1062,Is this product compatible with Windows? I am frustrated.,Product Inquiry
+1063,Login OTP is not arriving. This is urgent.,Account Access
+1064,Can you add multi-language support? Kindly resolve ASAP.,Feature Request
+1065,Is this product compatible with Windows? I am frustrated.,Product Inquiry
+1066,Does this support Android devices? This is urgent.,Product Inquiry
+1067,Shipment is delayed. Please help quickly.,Shipping Problem
+1068,Website is not loading properly. Please help quickly.,Technical Support
+1069,I want a refund for my last purchase. This is urgent.,Refund Request
+1070,Do you offer warranty for this product?,Product Inquiry
+1071,What are the specifications of this item? This is urgent.,Product Inquiry
+1072,I had a terrible experience. Kindly resolve ASAP.,Complaint
+1073,My account is locked. Please help quickly.,Account Access
+1074,Refund status is still pending. Please help quickly.,Refund Request
+1075,Mobile app keeps logging me out. I am frustrated.,Technical Support
+1076,My invoice shows an incorrect amount. It has been 3 days already.,Billing Issue
+1077,Support team is not responding.,Complaint
+1078,Payment failed but money was deducted. Kindly resolve ASAP.,Billing Issue
+1079,Mobile app keeps logging me out. I am frustrated.,Technical Support
+1080,Support team is not responding.,Complaint
+1081,Very poor quality product. Kindly resolve ASAP.,Complaint
+1082,Does this support Android devices? I am frustrated.,Product Inquiry
+1083,Can you add multi-language support? Kindly resolve ASAP.,Feature Request
+1084,Is this product compatible with Windows? Kindly resolve ASAP.,Product Inquiry
+1085,Payment failed but money was deducted.,Billing Issue
+1086,Package was damaged during delivery. Please help quickly.,Shipping Problem
+1087,I suggest adding a dashboard feature. Kindly resolve ASAP.,Feature Request
+1088,I cannot log into my account. It has been 3 days already.,Account Access
+1089,Subscription renewal amount is wrong.,Billing Issue
+1090,Error code 500 appears frequently. I am frustrated.,Technical Support
+1091,Cancel my order and issue refund. I am frustrated.,Refund Request
+1092,Is this product compatible with Windows? Please help quickly.,Product Inquiry
+1093,I had a terrible experience. I am frustrated.,Complaint
+1094,I see an unknown charge on my card. Kindly resolve ASAP.,Billing Issue
+1095,I am getting a server error. This is urgent.,Technical Support
+1096,I see an unknown charge on my card. Kindly resolve ASAP.,Billing Issue
+1097,Error code 500 appears frequently.,Technical Support
+1098,Does this support Android devices? This is urgent.,Product Inquiry
+1099,Can you explain how this product works? Kindly resolve ASAP.,Product Inquiry
+1100,I returned the item but haven't received my refund. This is urgent.,Refund Request
+1101,I cannot log into my account. Kindly resolve ASAP.,Account Access
+1102,Please add dark mode. I am frustrated.,Feature Request
+1103,Can you explain how this product works? Please help quickly.,Product Inquiry
+1104,My order has not arrived yet. Please help quickly.,Shipping Problem
+1105,Please reset my password. This is urgent.,Account Access
+1106,Two-factor authentication is not working.,Account Access
+1107,Refund status is still pending.,Refund Request
+1108,Please reset my password.,Account Access
+1109,Account was suspended without reason. I am frustrated.,Account Access
+1110,Payment failed but money was deducted. I am frustrated.,Billing Issue
+1111,Login OTP is not arriving. I am frustrated.,Account Access
+1112,I had a terrible experience. This is urgent.,Complaint
+1113,Customer service was very rude.,Complaint
+1114,I want a refund for my last purchase. It has been 3 days already.,Refund Request
+1115,Cancel my order and issue refund. This is urgent.,Refund Request
+1116,My order has not arrived yet. It has been 3 days already.,Shipping Problem
+1117,Cancel my order and issue refund. This is urgent.,Refund Request
+1118,Why was I billed after cancellation?,Billing Issue
+1119,My account is locked. Please help quickly.,Account Access
+1120,I see an unknown charge on my card. Kindly resolve ASAP.,Billing Issue
+1121,Does this support Android devices? It has been 3 days already.,Product Inquiry
+1122,What are the specifications of this item? Please help quickly.,Product Inquiry
+1123,Why was I billed after cancellation? It has been 3 days already.,Billing Issue
+1124,My invoice shows an incorrect amount. This is urgent.,Billing Issue
+1125,"The product did not meet expectations, refund me. This is urgent.",Refund Request
+1126,What are the specifications of this item? Please help quickly.,Product Inquiry
+1127,Refund status is still pending. It has been 3 days already.,Refund Request
+1128,Please add dark mode. Kindly resolve ASAP.,Feature Request
+1129,I am getting a server error.,Technical Support
+1130,Please add dark mode. This is urgent.,Feature Request
+1131,The system freezes after login. It has been 3 days already.,Technical Support
+1132,Delivery address was changed without notice. I am frustrated.,Shipping Problem
+1133,Very poor quality product. Please help quickly.,Complaint
+1134,This is unacceptable. Kindly resolve ASAP.,Complaint
+1135,I see an unknown charge on my card. It has been 3 days already.,Billing Issue
+1136,Cancel my order and issue refund. It has been 3 days already.,Refund Request
+1137,Please add dark mode.,Feature Request
+1138,Can you add multi-language support?,Feature Request
+1139,Can you explain how this product works? This is urgent.,Product Inquiry
+1140,The system freezes after login. I am frustrated.,Technical Support
+1141,Do you offer warranty for this product?,Product Inquiry
+1142,I suggest adding a dashboard feature. Kindly resolve ASAP.,Feature Request
+1143,Do you offer warranty for this product? It has been 3 days already.,Product Inquiry
+1144,Two-factor authentication is not working.,Account Access
+1145,Package was damaged during delivery. This is urgent.,Shipping Problem
+1146,Please process my refund immediately. I am frustrated.,Refund Request
+1147,My invoice shows an incorrect amount. Kindly resolve ASAP.,Billing Issue
+1148,Website is not loading properly. It has been 3 days already.,Technical Support
+1149,What are the specifications of this item? Kindly resolve ASAP.,Product Inquiry
+1150,I returned the item but haven't received my refund. I am frustrated.,Refund Request
+1151,Support team is not responding. Kindly resolve ASAP.,Complaint
+1152,Add integration with Google Drive.,Feature Request
+1153,I see an unknown charge on my card. It has been 3 days already.,Billing Issue
+1154,Why was I billed after cancellation? I am frustrated.,Billing Issue
+1155,Refund status is still pending. This is urgent.,Refund Request
+1156,Package was damaged during delivery. It has been 3 days already.,Shipping Problem
+1157,The app crashes when I open it.,Technical Support
+1158,Please add dark mode. This is urgent.,Feature Request
+1159,Add integration with Google Drive. I am frustrated.,Feature Request
+1160,Login OTP is not arriving. It has been 3 days already.,Account Access
+1161,Two-factor authentication is not working. It has been 3 days already.,Account Access
+1162,Do you offer warranty for this product? Kindly resolve ASAP.,Product Inquiry
+1163,What colors are available? This is urgent.,Product Inquiry
+1164,Website is not loading properly. Kindly resolve ASAP.,Technical Support
+1165,I suggest adding a dashboard feature. Please help quickly.,Feature Request
+1166,Login OTP is not arriving. This is urgent.,Account Access
+1167,Login OTP is not arriving. Please help quickly.,Account Access
+1168,Very poor quality product. I am frustrated.,Complaint
+1169,My account is locked. I am frustrated.,Account Access
+1170,The tracking number is not working. This is urgent.,Shipping Problem
+1171,Subscription renewal amount is wrong. Kindly resolve ASAP.,Billing Issue
+1172,I cannot log into my account.,Account Access
+1173,Very poor quality product. It has been 3 days already.,Complaint
+1174,Do you offer warranty for this product? Please help quickly.,Product Inquiry
+1175,Mobile app keeps logging me out. I am frustrated.,Technical Support
+1176,My account is locked.,Account Access
+1177,Cancel my order and issue refund. Kindly resolve ASAP.,Refund Request
+1178,Mobile app keeps logging me out. Kindly resolve ASAP.,Technical Support
+1179,Please reset my password. This is urgent.,Account Access
+1180,Account was suspended without reason. Please help quickly.,Account Access
+1181,Website is not loading properly. I am frustrated.,Technical Support
+1182,I returned the item but haven't received my refund. Please help quickly.,Refund Request
+1183,Add integration with Google Drive.,Feature Request
+1184,I see an unknown charge on my card. Kindly resolve ASAP.,Billing Issue
+1185,I want a refund for my last purchase. This is urgent.,Refund Request
+1186,What colors are available? I am frustrated.,Product Inquiry
+1187,Can you explain how this product works?,Product Inquiry
+1188,What are the specifications of this item? Please help quickly.,Product Inquiry
+1189,Very poor quality product. It has been 3 days already.,Complaint
+1190,Refund status is still pending. This is urgent.,Refund Request
+1191,This is unacceptable. I am frustrated.,Complaint
+1192,Add integration with Google Drive. This is urgent.,Feature Request
+1193,Delivery address was changed without notice. This is urgent.,Shipping Problem
+1194,Account was suspended without reason.,Account Access
+1195,The app crashes when I open it. It has been 3 days already.,Technical Support
+1196,I suggest adding a dashboard feature. Please help quickly.,Feature Request
+1197,Shipment is delayed. It has been 3 days already.,Shipping Problem
+1198,Shipment is delayed. Please help quickly.,Shipping Problem
+1199,Please process my refund immediately. I am frustrated.,Refund Request
+1200,Two-factor authentication is not working. I am frustrated.,Account Access
+1201,My account is locked. I am frustrated.,Account Access
+1202,I am very disappointed with your service. Kindly resolve ASAP.,Complaint
+1203,Cancel my order and issue refund. I am frustrated.,Refund Request
+1204,Cancel my order and issue refund. It has been 3 days already.,Refund Request
+1205,I received the wrong item. Please help quickly.,Shipping Problem
+1206,I suggest adding a dashboard feature. I am frustrated.,Feature Request
+1207,Does this support Android devices? Please help quickly.,Product Inquiry
+1208,I am very disappointed with your service. It has been 3 days already.,Complaint
+1209,I am very disappointed with your service. This is urgent.,Complaint
+1210,What colors are available? Kindly resolve ASAP.,Product Inquiry
+1211,I cannot log into my account. This is urgent.,Account Access
+1212,Please introduce push notifications. It has been 3 days already.,Feature Request
+1213,Please add dark mode. I am frustrated.,Feature Request
+1214,The app crashes when I open it. I am frustrated.,Technical Support
+1215,It would be great to have offline access. I am frustrated.,Feature Request
+1216,My account is locked. This is urgent.,Account Access
+1217,Website is not loading properly. Please help quickly.,Technical Support
+1218,Please add dark mode. It has been 3 days already.,Feature Request
+1219,Login OTP is not arriving.,Account Access
+1220,Cancel my order and issue refund. Please help quickly.,Refund Request
+1221,Very poor quality product. Please help quickly.,Complaint
+1222,My account is locked. This is urgent.,Account Access
+1223,Payment failed but money was deducted. Kindly resolve ASAP.,Billing Issue
+1224,Support team is not responding. This is urgent.,Complaint
+1225,Website is not loading properly. It has been 3 days already.,Technical Support
+1226,Shipment is delayed. This is urgent.,Shipping Problem
+1227,What are the specifications of this item?,Product Inquiry
+1228,My invoice shows an incorrect amount. This is urgent.,Billing Issue
+1229,Please reset my password. It has been 3 days already.,Account Access
+1230,Subscription renewal amount is wrong. Kindly resolve ASAP.,Billing Issue
+1231,Account was suspended without reason. Please help quickly.,Account Access
+1232,Please reset my password. This is urgent.,Account Access
+1233,Please add dark mode. Kindly resolve ASAP.,Feature Request
+1234,Account was suspended without reason. Kindly resolve ASAP.,Account Access
+1235,What colors are available? This is urgent.,Product Inquiry
+1236,The tracking number is not working. I am frustrated.,Shipping Problem
+1237,I had a terrible experience. Please help quickly.,Complaint
+1238,I want a refund for my last purchase. It has been 3 days already.,Refund Request
+1239,What are the specifications of this item? This is urgent.,Product Inquiry
+1240,Payment failed but money was deducted. Please help quickly.,Billing Issue
+1241,Login OTP is not arriving.,Account Access
+1242,Two-factor authentication is not working. I am frustrated.,Account Access
+1243,Support team is not responding. I am frustrated.,Complaint
+1244,My invoice shows an incorrect amount. I am frustrated.,Billing Issue
+1245,I am getting a server error.,Technical Support
+1246,I see an unknown charge on my card. This is urgent.,Billing Issue
+1247,Support team is not responding. It has been 3 days already.,Complaint
+1248,It would be great to have offline access. Kindly resolve ASAP.,Feature Request
+1249,I had a terrible experience. I am frustrated.,Complaint
+1250,Please introduce push notifications. Kindly resolve ASAP.,Feature Request
+1251,I cannot log into my account. This is urgent.,Account Access
+1252,I was charged twice for my subscription. This is urgent.,Billing Issue
+1253,Support team is not responding. Kindly resolve ASAP.,Complaint
+1254,My invoice shows an incorrect amount. This is urgent.,Billing Issue
+1255,I suggest adding a dashboard feature.,Feature Request
+1256,I am very disappointed with your service. It has been 3 days already.,Complaint
+1257,The tracking number is not working. Please help quickly.,Shipping Problem
+1258,Website is not loading properly. Please help quickly.,Technical Support
+1259,Subscription renewal amount is wrong. Please help quickly.,Billing Issue
+1260,Delivery address was changed without notice. Kindly resolve ASAP.,Shipping Problem
+1261,Please introduce push notifications.,Feature Request
+1262,I am getting a server error.,Technical Support
+1263,Customer service was very rude. It has been 3 days already.,Complaint
+1264,Support team is not responding. This is urgent.,Complaint
+1265,I received the wrong item.,Shipping Problem
+1266,Does this support Android devices? This is urgent.,Product Inquiry
+1267,I was charged twice for my subscription. Kindly resolve ASAP.,Billing Issue
+1268,I received the wrong item. It has been 3 days already.,Shipping Problem
+1269,Two-factor authentication is not working. I am frustrated.,Account Access
+1270,It would be great to have offline access. It has been 3 days already.,Feature Request
+1271,Please process my refund immediately. It has been 3 days already.,Refund Request
+1272,Payment failed but money was deducted. It has been 3 days already.,Billing Issue
+1273,Do you offer warranty for this product? I am frustrated.,Product Inquiry
+1274,Shipment is delayed. This is urgent.,Shipping Problem
+1275,Please reset my password. This is urgent.,Account Access
+1276,Account was suspended without reason. Kindly resolve ASAP.,Account Access
+1277,Two-factor authentication is not working.,Account Access
+1278,My account is locked.,Account Access
+1279,Mobile app keeps logging me out.,Technical Support
+1280,Payment failed but money was deducted.,Billing Issue
+1281,I am very disappointed with your service. Kindly resolve ASAP.,Complaint
+1282,I cannot log into my account. Please help quickly.,Account Access
+1283,Customer service was very rude.,Complaint
+1284,Does this support Android devices? Kindly resolve ASAP.,Product Inquiry
+1285,I am getting a server error. Please help quickly.,Technical Support
+1286,I am getting a server error.,Technical Support
+1287,It would be great to have offline access. It has been 3 days already.,Feature Request
+1288,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+1289,Is this product compatible with Windows? I am frustrated.,Product Inquiry
+1290,Customer service was very rude. It has been 3 days already.,Complaint
+1291,Customer service was very rude. I am frustrated.,Complaint
+1292,The system freezes after login. I am frustrated.,Technical Support
+1293,"The product did not meet expectations, refund me. Kindly resolve ASAP.",Refund Request
+1294,I was charged twice for my subscription. This is urgent.,Billing Issue
+1295,I see an unknown charge on my card. I am frustrated.,Billing Issue
+1296,My account is locked. It has been 3 days already.,Account Access
+1297,Can you explain how this product works?,Product Inquiry
+1298,Add integration with Google Drive. This is urgent.,Feature Request
+1299,I want a refund for my last purchase. It has been 3 days already.,Refund Request
+1300,Shipment is delayed. Please help quickly.,Shipping Problem
+1301,Why was I billed after cancellation? This is urgent.,Billing Issue
+1302,Can you explain how this product works?,Product Inquiry
+1303,Does this support Android devices? It has been 3 days already.,Product Inquiry
+1304,I received the wrong item.,Shipping Problem
+1305,Website is not loading properly. It has been 3 days already.,Technical Support
+1306,Shipment is delayed. Kindly resolve ASAP.,Shipping Problem
+1307,I see an unknown charge on my card.,Billing Issue
+1308,Refund status is still pending. I am frustrated.,Refund Request
+1309,This is unacceptable. Kindly resolve ASAP.,Complaint
+1310,Payment failed but money was deducted. This is urgent.,Billing Issue
+1311,Login OTP is not arriving. It has been 3 days already.,Account Access
+1312,Payment failed but money was deducted. Kindly resolve ASAP.,Billing Issue
+1313,My order has not arrived yet. I am frustrated.,Shipping Problem
+1314,I want a refund for my last purchase. Please help quickly.,Refund Request
+1315,Very poor quality product. Kindly resolve ASAP.,Complaint
+1316,The tracking number is not working. It has been 3 days already.,Shipping Problem
+1317,Very poor quality product. It has been 3 days already.,Complaint
+1318,Subscription renewal amount is wrong. Please help quickly.,Billing Issue
+1319,Website is not loading properly. I am frustrated.,Technical Support
+1320,My account is locked.,Account Access
+1321,I see an unknown charge on my card. Kindly resolve ASAP.,Billing Issue
+1322,Support team is not responding.,Complaint
+1323,I had a terrible experience. This is urgent.,Complaint
+1324,Two-factor authentication is not working. This is urgent.,Account Access
+1325,Refund status is still pending. This is urgent.,Refund Request
+1326,Is this product compatible with Windows? This is urgent.,Product Inquiry
+1327,I received the wrong item. Please help quickly.,Shipping Problem
+1328,It would be great to have offline access. Please help quickly.,Feature Request
+1329,The tracking number is not working. Kindly resolve ASAP.,Shipping Problem
+1330,My invoice shows an incorrect amount. I am frustrated.,Billing Issue
+1331,Can you add multi-language support? Please help quickly.,Feature Request
+1332,Very poor quality product. Please help quickly.,Complaint
+1333,"The product did not meet expectations, refund me. It has been 3 days already.",Refund Request
+1334,What are the specifications of this item? Please help quickly.,Product Inquiry
+1335,I see an unknown charge on my card.,Billing Issue
+1336,I received the wrong item.,Shipping Problem
+1337,Please add dark mode. I am frustrated.,Feature Request
+1338,Payment failed but money was deducted. Please help quickly.,Billing Issue
+1339,I had a terrible experience. This is urgent.,Complaint
+1340,Error code 500 appears frequently. It has been 3 days already.,Technical Support
+1341,Package was damaged during delivery. It has been 3 days already.,Shipping Problem
+1342,Two-factor authentication is not working. I am frustrated.,Account Access
+1343,Login OTP is not arriving. Kindly resolve ASAP.,Account Access
+1344,Do you offer warranty for this product? This is urgent.,Product Inquiry
+1345,What colors are available? I am frustrated.,Product Inquiry
+1346,Why was I billed after cancellation? It has been 3 days already.,Billing Issue
+1347,I am very disappointed with your service. This is urgent.,Complaint
+1348,Can you explain how this product works?,Product Inquiry
+1349,Please introduce push notifications. I am frustrated.,Feature Request
+1350,My account is locked. It has been 3 days already.,Account Access
+1351,This is unacceptable.,Complaint
+1352,Mobile app keeps logging me out.,Technical Support
+1353,Very poor quality product. It has been 3 days already.,Complaint
+1354,The system freezes after login. It has been 3 days already.,Technical Support
+1355,Add integration with Google Drive.,Feature Request
+1356,I had a terrible experience. It has been 3 days already.,Complaint
+1357,I cannot log into my account.,Account Access
+1358,This is unacceptable.,Complaint
+1359,Error code 500 appears frequently.,Technical Support
+1360,I am very disappointed with your service. This is urgent.,Complaint
+1361,My account is locked. It has been 3 days already.,Account Access
+1362,I want a refund for my last purchase. This is urgent.,Refund Request
+1363,This is unacceptable. Please help quickly.,Complaint
+1364,Delivery address was changed without notice. I am frustrated.,Shipping Problem
+1365,My order has not arrived yet. This is urgent.,Shipping Problem
+1366,I was charged twice for my subscription. It has been 3 days already.,Billing Issue
+1367,Do you offer warranty for this product? It has been 3 days already.,Product Inquiry
+1368,I returned the item but haven't received my refund. This is urgent.,Refund Request
+1369,Website is not loading properly. Please help quickly.,Technical Support
+1370,Two-factor authentication is not working. I am frustrated.,Account Access
+1371,I cannot log into my account. It has been 3 days already.,Account Access
+1372,I am very disappointed with your service. I am frustrated.,Complaint
+1373,Package was damaged during delivery. Please help quickly.,Shipping Problem
+1374,Payment failed but money was deducted.,Billing Issue
+1375,The tracking number is not working. Please help quickly.,Shipping Problem
+1376,I received the wrong item. Please help quickly.,Shipping Problem
+1377,The app crashes when I open it. This is urgent.,Technical Support
+1378,What are the specifications of this item?,Product Inquiry
+1379,I returned the item but haven't received my refund.,Refund Request
+1380,I received the wrong item. I am frustrated.,Shipping Problem
+1381,Can you explain how this product works? I am frustrated.,Product Inquiry
+1382,Cancel my order and issue refund. Please help quickly.,Refund Request
+1383,The system freezes after login. Kindly resolve ASAP.,Technical Support
+1384,Does this support Android devices? I am frustrated.,Product Inquiry
+1385,The app crashes when I open it. I am frustrated.,Technical Support
+1386,Very poor quality product. I am frustrated.,Complaint
+1387,I am getting a server error. Please help quickly.,Technical Support
+1388,I am very disappointed with your service. Kindly resolve ASAP.,Complaint
+1389,Subscription renewal amount is wrong. Please help quickly.,Billing Issue
+1390,I cannot log into my account. Kindly resolve ASAP.,Account Access
+1391,The tracking number is not working. I am frustrated.,Shipping Problem
+1392,What are the specifications of this item? It has been 3 days already.,Product Inquiry
+1393,It would be great to have offline access. Please help quickly.,Feature Request
+1394,Please add dark mode. Please help quickly.,Feature Request
+1395,I am very disappointed with your service. I am frustrated.,Complaint
+1396,Customer service was very rude. It has been 3 days already.,Complaint
+1397,"The product did not meet expectations, refund me. Please help quickly.",Refund Request
+1398,Error code 500 appears frequently.,Technical Support
+1399,I see an unknown charge on my card. Please help quickly.,Billing Issue
+1400,I was charged twice for my subscription. This is urgent.,Billing Issue
+1401,Delivery address was changed without notice. This is urgent.,Shipping Problem
+1402,Can you add multi-language support? Kindly resolve ASAP.,Feature Request
+1403,I want a refund for my last purchase. I am frustrated.,Refund Request
+1404,My invoice shows an incorrect amount. This is urgent.,Billing Issue
+1405,I want a refund for my last purchase. This is urgent.,Refund Request
+1406,Why was I billed after cancellation? This is urgent.,Billing Issue
+1407,I am very disappointed with your service. Kindly resolve ASAP.,Complaint
+1408,Login OTP is not arriving. Kindly resolve ASAP.,Account Access
+1409,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+1410,Support team is not responding. It has been 3 days already.,Complaint
+1411,My account is locked. Kindly resolve ASAP.,Account Access
+1412,Do you offer warranty for this product? Kindly resolve ASAP.,Product Inquiry
+1413,I received the wrong item. Kindly resolve ASAP.,Shipping Problem
+1414,Add integration with Google Drive. This is urgent.,Feature Request
+1415,I received the wrong item. I am frustrated.,Shipping Problem
+1416,I want a refund for my last purchase. Kindly resolve ASAP.,Refund Request
+1417,Refund status is still pending. It has been 3 days already.,Refund Request
+1418,Add integration with Google Drive. Please help quickly.,Feature Request
+1419,"The product did not meet expectations, refund me. I am frustrated.",Refund Request
+1420,Subscription renewal amount is wrong. Kindly resolve ASAP.,Billing Issue
+1421,It would be great to have offline access. I am frustrated.,Feature Request
+1422,Please introduce push notifications. This is urgent.,Feature Request
+1423,I received the wrong item. Please help quickly.,Shipping Problem
+1424,I am getting a server error. Kindly resolve ASAP.,Technical Support
+1425,I suggest adding a dashboard feature. This is urgent.,Feature Request
+1426,Does this support Android devices? It has been 3 days already.,Product Inquiry
+1427,Support team is not responding. Please help quickly.,Complaint
+1428,Account was suspended without reason. It has been 3 days already.,Account Access
+1429,Delivery address was changed without notice. Kindly resolve ASAP.,Shipping Problem
+1430,Please introduce push notifications. It has been 3 days already.,Feature Request
+1431,The system freezes after login. This is urgent.,Technical Support
+1432,Payment failed but money was deducted. This is urgent.,Billing Issue
+1433,Error code 500 appears frequently.,Technical Support
+1434,Add integration with Google Drive. Please help quickly.,Feature Request
+1435,Can you explain how this product works?,Product Inquiry
+1436,The app crashes when I open it. Please help quickly.,Technical Support
+1437,I returned the item but haven't received my refund. Please help quickly.,Refund Request
+1438,Shipment is delayed. It has been 3 days already.,Shipping Problem
+1439,Customer service was very rude. This is urgent.,Complaint
+1440,My account is locked. Kindly resolve ASAP.,Account Access
+1441,Do you offer warranty for this product? I am frustrated.,Product Inquiry
+1442,Does this support Android devices? I am frustrated.,Product Inquiry
+1443,The tracking number is not working. Please help quickly.,Shipping Problem
+1444,Can you explain how this product works?,Product Inquiry
+1445,Does this support Android devices? Kindly resolve ASAP.,Product Inquiry
+1446,Error code 500 appears frequently.,Technical Support
+1447,Error code 500 appears frequently. This is urgent.,Technical Support
+1448,Add integration with Google Drive. This is urgent.,Feature Request
+1449,Please add dark mode. This is urgent.,Feature Request
+1450,Package was damaged during delivery. It has been 3 days already.,Shipping Problem
+1451,Two-factor authentication is not working. This is urgent.,Account Access
+1452,Please process my refund immediately. This is urgent.,Refund Request
+1453,Shipment is delayed.,Shipping Problem
+1454,Customer service was very rude. Kindly resolve ASAP.,Complaint
+1455,My account is locked. It has been 3 days already.,Account Access
+1456,Customer service was very rude.,Complaint
+1457,Does this support Android devices? This is urgent.,Product Inquiry
+1458,My invoice shows an incorrect amount. I am frustrated.,Billing Issue
+1459,Shipment is delayed. Please help quickly.,Shipping Problem
+1460,Delivery address was changed without notice. Please help quickly.,Shipping Problem
+1461,Please process my refund immediately. Please help quickly.,Refund Request
+1462,Login OTP is not arriving.,Account Access
+1463,Can you add multi-language support? It has been 3 days already.,Feature Request
+1464,I suggest adding a dashboard feature. It has been 3 days already.,Feature Request
+1465,Support team is not responding. This is urgent.,Complaint
+1466,Please reset my password.,Account Access
+1467,The app crashes when I open it. It has been 3 days already.,Technical Support
+1468,The app crashes when I open it. I am frustrated.,Technical Support
+1469,The app crashes when I open it. I am frustrated.,Technical Support
+1470,"The product did not meet expectations, refund me. I am frustrated.",Refund Request
+1471,Refund status is still pending. Please help quickly.,Refund Request
+1472,Can you add multi-language support? I am frustrated.,Feature Request
+1473,Please reset my password. Kindly resolve ASAP.,Account Access
+1474,My order has not arrived yet.,Shipping Problem
+1475,"The product did not meet expectations, refund me. Kindly resolve ASAP.",Refund Request
+1476,Payment failed but money was deducted. Kindly resolve ASAP.,Billing Issue
+1477,It would be great to have offline access. Kindly resolve ASAP.,Feature Request
+1478,The app crashes when I open it. This is urgent.,Technical Support
+1479,Payment failed but money was deducted. This is urgent.,Billing Issue
+1480,I cannot log into my account. This is urgent.,Account Access
+1481,Very poor quality product.,Complaint
+1482,I received the wrong item. It has been 3 days already.,Shipping Problem
+1483,Mobile app keeps logging me out. I am frustrated.,Technical Support
+1484,The system freezes after login. I am frustrated.,Technical Support
+1485,Can you explain how this product works?,Product Inquiry
+1486,Shipment is delayed. This is urgent.,Shipping Problem
+1487,This is unacceptable. This is urgent.,Complaint
+1488,What are the specifications of this item? This is urgent.,Product Inquiry
+1489,I suggest adding a dashboard feature. It has been 3 days already.,Feature Request
+1490,Can you explain how this product works? Please help quickly.,Product Inquiry
+1491,Add integration with Google Drive. Kindly resolve ASAP.,Feature Request
+1492,Refund status is still pending. This is urgent.,Refund Request
+1493,Does this support Android devices? It has been 3 days already.,Product Inquiry
+1494,My order has not arrived yet. Please help quickly.,Shipping Problem
+1495,Shipment is delayed. I am frustrated.,Shipping Problem
+1496,Refund status is still pending. Please help quickly.,Refund Request
+1497,I see an unknown charge on my card. Please help quickly.,Billing Issue
+1498,Delivery address was changed without notice. Kindly resolve ASAP.,Shipping Problem
+1499,Can you explain how this product works?,Product Inquiry
+1500,I want a refund for my last purchase. This is urgent.,Refund Request
